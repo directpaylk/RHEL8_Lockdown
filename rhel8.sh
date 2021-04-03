@@ -17,7 +17,6 @@ install jffs2 /bin/true
 install hfs /bin/true
 install hfsplus /bin/true
 install squashfs /bin/true
-install vfat /bin/true
 install udf /bin/true
 install dccp /bin/true
 install sctp /bin/true
